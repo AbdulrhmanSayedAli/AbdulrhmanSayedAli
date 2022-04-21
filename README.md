@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulrhmanSayedAli
-- 👀 I’m currently working as android developer (java)
-- 🌱 I’m currently learning flutter 
+- 👀 I’m currently working as android (java) and fluttter .
+
 
 
