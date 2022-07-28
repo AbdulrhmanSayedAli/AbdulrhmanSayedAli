@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m @AbdulrhmanSayedAli
-- 👀 I’m currently working as android (java) and fluttter developper .
+- 👀 I’m have an ecperience with android (java) and fluttter development .
+- 👀 I’m currently working as Software Engineer Intern at bld.ai .
 - [linkedin](https://linkedin.com/in/abdulrhman-sayed-ali-48a089193)
 - email : abdulrhmansayedali@gmail.com
